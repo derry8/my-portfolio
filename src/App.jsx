@@ -3,7 +3,7 @@ import Navbar from './components/Navbar/Navbar.jsx';
 import Hero from './components/Hero/Hero.jsx';
 import AboutMe from './components/Aboutme/Aboutme.jsx';
 import Skills from './components/skills/Skills.jsx';
-import Projects from './components/projects/projects.jsx';
+import Projects from './components/projects/Projects.jsx';
 import Journey from './components/Journey/Journey.jsx';
 import Contact from './components/Contact/Contact.jsx';
 
