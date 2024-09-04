@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  background: linear-gradient(135deg, #330202, #0a0a0a);
+}
+html {
+  scroll-behavior: smooth;
+}
+.navbar{
+  background: linear-gradient(135deg, #330202, #0a0a0a);
+}
+
+@media (min-width: 1024px) { /* Adjust the breakpoint as needed */
+  body {
+    overflow: hidden;
+  }
+}

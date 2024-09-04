@@ -1,0 +1,9 @@
+
+  @media (max-width: 768px) {
+    .journey{
+      margin-top: -100px;
+    }
+    .certificates{
+      margin-top: -100px;
+    }
+  }
